@@ -21,9 +21,6 @@
 
 ---
 
-## 📈 Статистика GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=dark)
 
 ---
 
